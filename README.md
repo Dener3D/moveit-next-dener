@@ -2,6 +2,10 @@
 
 Uma aplicação para te lembrar de exercitar-se de 25 em 25 minutos quando estiver trabalhando em frente ao computador
 
+### Instalação
+
+npm install
+
 ### Para executar a aplicação:
 
 yarn test
