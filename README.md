@@ -15,6 +15,8 @@ Uma aplicação para te lembrar de exercitar-se de 25 em 25 minutos quando estiv
 
 <img src="https://github.com/Dener3D/moveit-next-dener/blob/main/Images/03.PNG">
 
+<img src="https://github.com/Dener3D/moveit-next-dener/blob/main/Images/04.PNG">
+
 ### Instalação
 
 npm install
