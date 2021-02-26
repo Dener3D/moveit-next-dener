@@ -4,10 +4,10 @@ Uma aplicação para te lembrar de exercitar-se de 25 em 25 minutos quando estiv
 
 ### Recursos
 
-> Contador
-> Barra de progresso
-> Notificação
-> Armazenar dados em cookies
+* Contador
+* Barra de progresso
+* Notificação
+* Armazenar dados em cookies
 
 <img src="https://github.com/Dener3D/moveit-next-dener/blob/main/Images/01.PNG">
 
